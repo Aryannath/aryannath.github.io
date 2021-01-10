@@ -31,8 +31,16 @@ repo: "https://github.com/Aryannath/aryannath.github.io"
 
 sass:
   style: compressed
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike  
+  sass_dir: _sass
+  
+social_links:
+  github: https://github.com/Aryannath
+  linkedIn: https://www.linkedin.com/in/aryan-nath-7324aa200/
+  twitter: https://twitter.com/aryannath25
+  instagram: https://www.instagram.com/aryan_nath25/
+  kaggle: https://www.kaggle.com/aryannath
+  rss: rss
+ 
   
 encoding: utf-8 # Make sure the encoding is right
 
@@ -58,14 +66,6 @@ twitter:
   username: aryannath25
 
 author: Aryan Nath
-
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
-    
 email: "aryannath2@gmail.com"
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
@@ -74,6 +74,12 @@ sharing_links: # Appear at the bottom of single blog posts, add as desired. The 
   Email: true
 
 google_analytics: 'googlef563022ea5552afd'
+
+
+sass:
+  style: compressed # Style compression
+permalink: /:categories/:title/  # define url construction
+timezone: America/Los_Angeles # Timezone for blog posts and alike
 
 # Collections
 collections:
