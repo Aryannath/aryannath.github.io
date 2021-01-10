@@ -26,6 +26,9 @@ title: 'Aryan Nath'
 description: 'Know more about Aryan Nath'
 permalink: pretty
 logo: "/assets/img/site-logo.jpeg"
+avatarurl: "/assets/img/site-logo.jpeg"
+repo: "https://github.com/Aryannath/aryannath.github.io"
+
 
 # Pagination
 paginate: 5
