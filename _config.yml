@@ -20,10 +20,10 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://aryannath.github.io/'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Aryan Nath'
+description: 'Know more about Aryan Nath'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
