@@ -23,7 +23,7 @@ plugins:
 url: 'https://aryannath.github.io/'
 baseurl: ''
 title: 'Aryan Nath'
-description: 'Know more about Aryan Nath'
+description: 'Know more about me :-'
 permalink: pretty
 logo: "/assets/img/site-logo.jpeg"
 avatarurl: "/assets/img/site-logo.jpeg"
@@ -47,6 +47,14 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
+
+contact:
+  github:     https://github.com/Aryannath
+  linkedin:   https://www.linkedin.com/in/aryan-nath-7324aa200/
+  twitter:    https://twitter.com/aryannath25
+  instagram:  https://www.instagram.com/aryan_nath25/
+  kaggle:     https://www.kaggle.com/aryannath
+    
 
 # Collections
 collections:
