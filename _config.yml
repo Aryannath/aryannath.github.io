@@ -14,8 +14,11 @@ plugins:
 - jekyll-seo-tag
 - jekyll-redirect-from
 - jekyll-default-layout
+- jekyll-commonmark
+- jekyll-include-cache
 - jekyll-feed
 - jemoji
+- github-pages
 
 
 # Site settings
@@ -33,18 +36,6 @@ sass:
   style: compressed
   sass_dir: _sass
   
-social_links:
-  github: https://github.com/Aryannath
-  linkedIn: https://www.linkedin.com/in/aryan-nath-7324aa200/
-  twitter: https://twitter.com/aryannath25
-  instagram: https://www.instagram.com/aryan_nath25/
-  kaggle: https://www.kaggle.com/aryannath
-  rss: rss
- 
-  
-
-
-
 # default markdown processor and highlighter
 markdown: kramdown
 highlighter: rouge
@@ -74,11 +65,6 @@ twitter:
 author: Aryan Nath
 email: "aryannath2@gmail.com"
 
-sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
-  Email: true
-
 google_analytics: 'googlef563022ea5552afd'
 
 
@@ -96,3 +82,17 @@ collections:
     feature_text: |
       Welcome to my blog
     feature_image: "https://picsum.photos/2560/600?image=866"
+    
+    
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  github: https://github.com/Aryannath
+  linkedIn: https://www.linkedin.com/in/aryan-nath-7324aa200/
+  twitter: https://twitter.com/aryannath25
+  instagram: https://www.instagram.com/aryan_nath25/
+  kaggle: https://www.kaggle.com/aryannath
+  RSS: /feed.xml
+  
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  Email: true  
