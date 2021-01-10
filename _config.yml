@@ -29,6 +29,12 @@ logo: "/assets/img/site-logo.jpeg"
 avatarurl: "/assets/img/site-logo.jpeg"
 repo: "https://github.com/Aryannath/aryannath.github.io"
 
+sass:
+  style: compressed
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/London # Timezone for blog posts and alike  
+  
+encoding: utf-8 # Make sure the encoding is right
 
 # Pagination
 paginate: 5
@@ -53,25 +59,19 @@ twitter:
 
 author: Aryan Nath
 
-contact:
+social_links:
   github:     https://github.com/Aryannath
   linkedin:   https://www.linkedin.com/in/aryan-nath-7324aa200/
   twitter:    https://twitter.com/aryannath25
   instagram:  https://www.instagram.com/aryan_nath25/
   kaggle:     https://www.kaggle.com/aryannath
     
-Email: aryannath2@gmail.com
+email: "aryannath2@gmail.com"
 
-% include nav-share.html %
-Twitter: "#1DA1F2"
-facebook: "#3B5998"
-Pinterest: "#BD081C"
-LinkedIn: "#0077B5"
-tumblr: "#36465D"
-Reddit: "#FF4500"
-HackerNews: "#ff6600"
-DesignerNews: "#2D72D9"
-Email: true
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  Email: true
 
 google_analytics: 'googlef563022ea5552afd'
 
