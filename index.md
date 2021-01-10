@@ -7,7 +7,7 @@ feature_text: <h2 style="color:white"> Yes! I would prefer a zombie apocalypse o
 
 ### Howdy boomers !!! :wave: :wave: 
 
-I am Aryan, currently in my undergrad (2nd year) pursuing Computer Science & Engineering . I like experimenting with new technologies, building small projects, and occassionally joining hackathons. Always learning. :crystal_ball:
+I am Aryan, currently in my undergrad (2nd year) pursuing Computer Science & Engineering :pencil: . I like experimenting with new technologies, building small projects, and occassionally joining hackathons. Always learning. :rocket:
 
  * :lollipop:  Pronounces : (He/Him)
  * :surfer:  Surfing in the world of AI , Machine Learning and Data science for almost a year now.
