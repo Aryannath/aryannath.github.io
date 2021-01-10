@@ -1,5 +1,4 @@
-# Set theme
-remote_theme: daviddarnes/alembic
+
 
 # File excludes
 exclude:
@@ -17,12 +16,13 @@ plugins:
 - jekyll-default-layout
 - jekyll-feed
 - jemoji
-- jekyll-remote-theme
+
 
 # Site settings
+encoding: utf-8
 url: 'https://aryannath.github.io/'
 baseurl: ''
-title: 'Aryan Nath'
+title: "Aryan Nath"
 description: 'Know more about me :-'
 permalink: pretty
 logo: "/assets/img/site-logo.jpeg"
@@ -42,7 +42,13 @@ social_links:
   rss: rss
  
   
-encoding: utf-8 # Make sure the encoding is right
+
+
+
+# default markdown processor and highlighter
+markdown: kramdown
+highlighter: rouge
+error_mode: strict
 
 # Pagination
 paginate: 5
