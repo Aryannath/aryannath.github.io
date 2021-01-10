@@ -60,7 +60,18 @@ contact:
   instagram:  https://www.instagram.com/aryan_nath25/
   kaggle:     https://www.kaggle.com/aryannath
     
-mail: aryannath2@gmail.com
+Email: aryannath2@gmail.com
+
+{% include nav-share.html %}
+Twitter: "#1DA1F2"
+facebook: "#3B5998"
+Pinterest: "#BD081C"
+LinkedIn: "#0077B5"
+tumblr: "#36465D"
+Reddit: "#FF4500"
+HackerNews: "#ff6600"
+DesignerNews: "#2D72D9"
+Email: true
 
 google_analytics: 'googlef563022ea5552afd'
 
