@@ -1,11 +1,11 @@
 ---
-title: OH ! So you're quest for finding the best human led you here !  
+title: OH ! So you're quest for finding the treasure led you here, how intresting !
 layout: page
 feature_image: "/assets/img/homepage.jpg"
 feature_text: <h2 style="color:white"> Yes! I would prefer a zombie apocalypse over robots taking over the world </h2>
 ---
 
-### Howdy boomers !! :wave: :wave: 
+### Howdy boomers !!! :wave: :wave: 
 
 I am Aryan, currently in my undergrad (2nd year) pursuing Computer Science & Engineering . I like experimenting with new technologies, building small projects, and occassionally joining hackathons. Always learning. :crystal_ball:
 
@@ -13,7 +13,7 @@ I am Aryan, currently in my undergrad (2nd year) pursuing Computer Science & Eng
  * :surfer:  Surfing in the world of AI , Machine Learning and Data science for almost a year now.
  * :computer:  Currently learning to contribute to Open Source Projects.
  * :crystal_ball:  Yes I'm Leo not Pisces. 
- * :movie_camera:  Cinema is my love, also if you happen to be a fellow cinephile check out my page on [instagram](https://www.instagram.com/cine.bliss/)
+ * :movie_camera:  Cinema is my love, also if you happen to be a fellow cinephile do check out my page on [instagram](https://www.instagram.com/cine.bliss/)
  * :hourglass:  Chess over any other game.
  * :ribbon:  Forms for s/o gonna be up soon , so keep an eye :eyes:
  
