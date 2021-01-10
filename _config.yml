@@ -59,12 +59,12 @@ twitter:
 
 author: Aryan Nath
 
-social_links:
-  Github: https://github.com/Aryannath
-  Linkedin: https://www.linkedin.com/in/aryan-nath-7324aa200/
-  Twitter: https://twitter.com/aryannath25
-  Instagram: https://www.instagram.com/aryan_nath25/
-  Kaggle: https://www.kaggle.com/aryannath
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/DavidDarnes
+  LinkedIn: https://www.linkedin.com/in/daviddarnes
+  GitHub: https://github.com/daviddarnes
+  link: https://darn.es
+  RSS: /feed.xml
     
 email: "aryannath2@gmail.com"
 
