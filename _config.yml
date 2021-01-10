@@ -62,7 +62,7 @@ contact:
     
 Email: aryannath2@gmail.com
 
-{% include nav-share.html %}
+% include nav-share.html %
 Twitter: "#1DA1F2"
 facebook: "#3B5998"
 Pinterest: "#BD081C"
