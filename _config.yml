@@ -47,6 +47,11 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
+  
+twitter:
+  username: aryannath25
+
+author: Aryan Nath
 
 contact:
   github:     https://github.com/Aryannath
