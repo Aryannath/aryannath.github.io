@@ -25,7 +25,7 @@ baseurl: ''
 title: 'Aryan Nath'
 description: 'Know more about Aryan Nath'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "/assets/img/site-logo.jpeg"
 
 # Pagination
 paginate: 5
