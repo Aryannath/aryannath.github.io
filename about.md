@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About this website
-feature_image: "/assets/img/about-bg.jpg"
+feature_image: "https://images7.alphacoders.com/690/690845.jpg"
 aside: true
 ---
 
