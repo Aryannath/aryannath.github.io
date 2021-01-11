@@ -2,7 +2,7 @@
 layout: post
 title: Hello World
 categories:
-- General
+- Tech
 feature_image: "https://images.hdqwalls.com/download/code-syntax-dark-minimal-4k-mr-1280x1024.jpg"
 ---
 
