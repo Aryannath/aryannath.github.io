@@ -89,8 +89,8 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   linkedIn: https://www.linkedin.com/in/aryan-nath-7324aa200/
   twitter: https://twitter.com/aryannath25
   instagram: https://www.instagram.com/aryan_nath25/
-  kaggle: https://www.kaggle.com/aryannath
-  RSS: /feed.xml
+  link: https://www.kaggle.com/aryannath
+ 
   
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
