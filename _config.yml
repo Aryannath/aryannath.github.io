@@ -56,7 +56,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: Home
   url: "#top"
   
 twitter:
