@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About this website
-feature_image: "https://drive.google.com/file/d/1j1_j4G8vkgjd-Neilw7d9YxkDlVfgfch/view?usp=sharing"
+feature_image: "/assets/img/about-bg.jpg"
 aside: true
 ---
 
