@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About this website
-feature_image: "https://images.hdqwalls.com/download/code-syntax-dark-minimal-4k-mr-1280x1024.jpg"
+feature_image: "https://github.com/Aryannath/aryannath.github.io/blob/main/assets/img/about-bg.jpg"
 aside: true
 ---
 
