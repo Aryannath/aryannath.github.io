@@ -9,7 +9,7 @@ feature_text: <h2 style="color:white"> Yes! I would prefer a zombie apocalypse o
 
 I am Aryan, currently in my undergrad (2nd year) pursuing Computer Science & Engineering :pencil: . I like experimenting with new technologies, building small projects, and occassionally joining hackathons. Always learning. :rocket:
 
- * :lollipop:  Pronounces : (He/Him)
+ * :lollipop:  Pronouns : (He/Him)
  * :surfer:  Surfing in the world of AI , Machine Learning and Data science for almost a year now.
  * :computer:  Currently learning to contribute to Open Source Projects.
  * :crystal_ball:  Yes I'm Leo not Pisces. 
